@@ -1,0 +1,6 @@
+{
+  "name": "Adarsha Result Manager",
+  "description": "Secure Student Result Management System for Adarsha High School. Supports real-time search, offline-first Room database, teacher control hub, customizable dark/light theme, local notifications, and beautiful PDF report card downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Academic Mortarboard/Graduation Cap & Report Card Silhouette -->
+    <!-- Cap Diamond -> Center coordinates: (54, 42) -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M54,26 L86,40 L54,54 L22,40 Z" />
+        
+    <!-- Cap base and neck -->
+    <path
+        android:fillColor="#0D9488"
+        android:pathData="M38,47 L38,58 C38,64 70,64 70,58 L70,47 Z" />
+        
+    <!-- Tassel dangling on right side -->
+    <path
+        android:fillColor="#EAB308"
+        android:pathData="M54,40 L80,52 L80,68 C78,68 78,74 80,74 C82,74 82,68 80,68 Z" />
+        
+    <!-- Open Book or Shield below cap (representing excellent results) -->
+    <!-- Centered at y=68 to y=88 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,68 C38,68 48,72 54,76 C60,72 70,68 78,68 L78,88 C70,88 60,92 54,96 C48,92 38,88 30,88 Z" />
+        
+    <!-- Divider line of book -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M53,76 L55,76 L55,95 L53,95 Z" />
+        
+    <!-- Small Star indicating highest GPA grade -->
+    <path
+        android:fillColor="#EAB308"
+        android:pathData="M54,62 L56,66 L61,66 L57,69 L59,74 L54,71 L49,74 L51,69 L47,66 L52,66 Z" />
+</vector>
